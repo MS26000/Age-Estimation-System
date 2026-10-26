@@ -1,0 +1,121 @@
+qid,raw,pred_bracket,pred_age,confidence,raw_bracket,parse_ok,note,split
+Q319789,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q208117,"{""age"": 25, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,25,0.85,25-34,True,,test
+Q136098855,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q125378898,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q50822050,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q1381198,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q112730748,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q440286,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q60989089,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test
+Q20685605,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.9}",25-34,28,0.9,25-34,True,,test
+Q96622413,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q6136006,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q301757,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q87972470,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q56366152,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q240759,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q66049369,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test
+Q19516340,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test
+Q61640864,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q1496312,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q3544018,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q18542980,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q31549,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q76376794,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,38,0.85,35-44,True,,test
+Q129197,"{""age"": 30, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,30,0.85,25-34,True,,test
+Q196073,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q930216,"{""age"": 36, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,36,0.85,35-44,True,,test
+Q594463,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q65127783,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q137584588,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test
+Q7841985,"{""age"": 36, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,36,0.85,35-44,True,,test
+Q41594734,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q313148,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q2434352,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q127561,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q62361,"{""age"": 30, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,30,0.85,25-34,True,,test
+Q16991273,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q528720,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q2322285,"{""age"": 28, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,28,0.85,25-34,True,,test
+Q112144155,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test
+Q207824,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q68154,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q7803308,"{""age"": 36, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,36,0.85,35-44,True,,test
+Q3046600,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q5266378,"{""age"": 40, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,40,0.85,35-44,True,,test
+Q1645688,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,38,0.85,35-44,True,,test
+Q30070493,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,38,0.85,35-44,True,,test
+Q628273,"{""age"": 52, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,52,0.85,45-54,True,,test
+Q220565,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q3825442,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,38,0.85,35-44,True,,test
+Q271554,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q22688633,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,38,0.85,35-44,True,,test
+Q504025,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q313367,"{""age"": 40, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,40,0.85,35-44,True,,test
+Q545634,"{""age"": 36, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,36,0.85,35-44,True,,test
+Q91408,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q380050,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.9}",35-44,38,0.9,35-44,True,,test
+Q15859149,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q6160124,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,38,0.85,35-44,True,,test
+Q105515765,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q164593,"{""age"": 52, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,52,0.85,45-54,True,,test
+Q52604,"{""age"": 52, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,52,0.85,45-54,True,,test
+Q113158927,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q39639,"{""age"": 48, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,48,0.85,45-54,True,,test
+Q69544,"{""age"": 48, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,48,0.85,45-54,True,,test
+Q112875862,"{""age"": 38, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,38,0.85,35-44,True,,test
+Q923781,"{""age"": 48, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,48,0.85,45-54,True,,test
+Q329734,"{""age"": 58, ""bracket"": ""55+"", ""confidence"": 0.85}",55+,58,0.85,55+,True,,test
+Q217556,"{""age"": 58, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,58,0.9,55+,True,,test
+Q129798,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q22688834,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q3186168,"{""age"": 48, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,48,0.85,45-54,True,,test
+Q1915394,"{""age"": 52, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,52,0.85,45-54,True,,test
+Q270683,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q5655823,"{""age"": 52, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,52,0.85,45-54,True,,test
+Q380115,"{""age"": 58, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,58,0.9,55+,True,,test
+Q179576,"{""age"": 44, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,44,0.85,35-44,True,,test
+Q259193,"{""age"": 48, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,48,0.85,45-54,True,,test
+Q595948,"{""age"": 62, ""bracket"": ""55+"", ""confidence"": 0.85}",55+,62,0.85,55+,True,,test
+Q250428,"{""age"": 42, ""bracket"": ""35-44"", ""confidence"": 0.85}",35-44,42,0.85,35-44,True,,test
+Q132506,"{""age"": 78, ""bracket"": ""55+"", ""confidence"": 0.95}",55+,78,0.95,55+,True,,test
+Q6418571,"{""age"": 68, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,68,0.9,55+,True,,test
+Q1361585,"{""age"": 62, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,62,0.9,55+,True,,test
+Q6899846,"{""age"": 58, ""bracket"": ""55+"", ""confidence"": 0.85}",55+,58,0.85,55+,True,,test
+Q1320640,"{""age"": 72, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,72,0.9,55+,True,,test
+Q453795,"{""age"": 68, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,68,0.9,55+,True,,test
+Q176426,"{""age"": 62, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,62,0.9,55+,True,,test
+Q138005,"{""age"": 72, ""bracket"": ""55+"", ""confidence"": 0.95}",55+,72,0.95,55+,True,,test
+Q294583,"{""age"": 72, ""bracket"": ""55+"", ""confidence"": 0.95}",55+,72,0.95,55+,True,,test
+Q137244,"{""age"": 68, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,68,0.9,55+,True,,test
+Q124176360,"{""age"": 62, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,62,0.9,55+,True,,test
+Q3442087,"{""age"": 26, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,26,0.85,25-34,True,,test
+Q48999,"{""age"": 48, ""bracket"": ""45-54"", ""confidence"": 0.75}",45-54,48,0.75,45-54,True,,test
+Q334333,"{""age"": 78, ""bracket"": ""55+"", ""confidence"": 0.95}",55+,78,0.95,55+,True,,test
+Q527509,"{""age"": 68, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,68,0.9,55+,True,,test
+Q4166508,"{""age"": 32, ""bracket"": ""25-34"", ""confidence"": 0.85}",25-34,32,0.85,25-34,True,,test
+Q313009,"{""age"": 52, ""bracket"": ""45-54"", ""confidence"": 0.85}",45-54,52,0.85,45-54,True,,test
+Q912893,"{""age"": 72, ""bracket"": ""55+"", ""confidence"": 0.9}",55+,72,0.9,55+,True,,test
+Q205721,"{""age"": 79, ""bracket"": ""55+"", ""confidence"": 0.95}",55+,79,0.95,55+,True,,test
+Q15782938,"{""age"": 58, ""bracket"": ""55+"", ""confidence"": 0.85}",55+,58,0.85,55+,True,,test
+Q72907511,"{""age"": 17, ""bracket"": ""Under 18"", ""confidence"": 0.85}",Under 18,17,0.85,Under 18,True,,test
+Q137584681,"{""age"": 15, ""bracket"": ""Under 18"", ""confidence"": 0.9}",Under 18,15,0.9,Under 18,True,,test
+Q30542547,"{""age"": 13, ""bracket"": ""Under 18"", ""confidence"": 0.9}",Under 18,13,0.9,Under 18,True,,test
+Q81904302,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test
+Q18391895,"{""age"": 12, ""bracket"": ""Under 18"", ""confidence"": 0.85}",Under 18,12,0.85,Under 18,True,,test
+Q562894,"{""age"": 10, ""bracket"": ""Under 18"", ""confidence"": 0.9}",Under 18,10,0.9,Under 18,True,,test
+Q15856584,"{""age"": 15, ""bracket"": ""Under 18"", ""confidence"": 0.85}",Under 18,15,0.85,Under 18,True,,test
+Q20982586,"{""age"": 14, ""bracket"": ""Under 18"", ""confidence"": 0.85}",Under 18,14,0.85,Under 18,True,,test
+Q110969628,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q41671678,"{""age"": 19, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,19,0.85,18-24,True,,test
+Q19973565,"{""age"": 19, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,19,0.85,18-24,True,,test
+Q22101310,"{""age"": 16, ""bracket"": ""Under 18"", ""confidence"": 0.85}",Under 18,16,0.85,Under 18,True,,test
+Q12794883,"{""age"": 15, ""bracket"": ""Under 18"", ""confidence"": 0.85}",Under 18,15,0.85,Under 18,True,,test
+Q107605034,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q23884700,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test
+Q36597779,"{""age"": 21, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,21,0.85,18-24,True,,test
+Q6821241,"{""age"": 15, ""bracket"": ""Under 18"", ""confidence"": 0.9}",Under 18,15,0.9,Under 18,True,,test
+Q358113,"{""age"": 15, ""bracket"": ""Under 18"", ""confidence"": 0.85}",Under 18,15,0.85,Under 18,True,,test
+Q50957278,"{""age"": 19, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,19,0.85,18-24,True,,test
+Q515659,"{""age"": 22, ""bracket"": ""18-24"", ""confidence"": 0.85}",18-24,22,0.85,18-24,True,,test

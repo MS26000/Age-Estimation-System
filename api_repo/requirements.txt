@@ -1,0 +1,10 @@
+# Runtime dependencies of the API. torch (CPU build) is installed separately in the Dockerfile.
+# After the first successful build run `pip freeze > requirements.lock` and commit it.
+fastapi
+uvicorn[standard]
+requests
+numpy
+pillow
+opencv-python-headless
+transformers
+google-genai

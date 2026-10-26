@@ -1,0 +1,11 @@
+.env
+*.key
+data/images/
+data/faces/
+data/_live_check/
+data/cache_*.json
+data/cv_features.npz
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/

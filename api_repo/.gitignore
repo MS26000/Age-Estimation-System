@@ -1,0 +1,12 @@
+# secrets
+.env
+*.key
+# data and large artefacts (the README explains how to rebuild them)
+data/images/
+data/faces/
+data/cv_features.npz
+*.onnx.tmp
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

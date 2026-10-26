@@ -1,0 +1,26 @@
+qid,name,birth_date,photo_date,age_exact,pred_age,age_bracket,pred_bracket,confidence,abs_error,file_page
+Q3442087,Rosa Morena,1940-07-11,2012-06-27,71.96,29,55+,25-34,0.4436,42.959999999999994,https://commons.wikimedia.org/wiki/File:Rosa_Morena_(1973).jpg
+Q4166508,Hadi Ahmed,1951-11-01,2024-05-10,72.52,33,55+,25-34,0.4424,39.519999999999996,https://commons.wikimedia.org/wiki/File:Hadi_Ahmed_9.jpg
+Q48999,Richie Furay,1944-05-09,2011-05-09,67.0,34,55+,25-34,0.3102,33.0,https://commons.wikimedia.org/wiki/File:Richie_Furay.jpg
+Q313009,Chris Isaak,1956-06-26,2014-01-25,57.58,32,55+,25-34,0.4389,25.58,https://commons.wikimedia.org/wiki/File:Chris_Isaak_at_NAMM_1_25_2014_-15_(12243161146).jpg
+Q6899846,Moni Fanan,1946-05-11,2008-04-01,61.89,38,55+,35-44,0.4216,23.89,https://commons.wikimedia.org/wiki/File:Moni_Fanan.jpg
+Q6418571,Kitty Kelley,1942-04-04,2010-04-19,68.04,47,55+,45-54,0.3885,21.040000000000006,https://commons.wikimedia.org/wiki/File:Kitty_Kelley_Photo_by_Raymond_Boyd_(cropped_and_modified).jpg
+Q270683,Sheryl Swoopes,1971-03-25,2025-07-06,54.28,34,45-54,25-34,0.3848,20.28,https://commons.wikimedia.org/wiki/File:Sheryl_Swoopes_at_Essence_Festival_of_Culture_July_2025.jpg
+Q15782938,Amina Salum Ali,1956-10-24,2015-01-21,58.24,41,55+,35-44,0.4281,17.240000000000002,https://commons.wikimedia.org/wiki/File:Amina_Salum_Ali.jpg
+Q137244,Alexei Uchitel,1951-08-31,2022-07-23,70.89,55,55+,55+,0.471,15.89,https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BD%D0%B0_VK_Fest_2022_(2).jpg
+Q250428,John Joseph,1962-10-03,2010-07-30,47.82,34,45-54,25-34,0.4146,13.82,https://commons.wikimedia.org/wiki/File:Cro_Mags_9_(4961813962).jpg
+Q329734,Brad Dourif,1950-03-18,2002-11-23,52.68,39,45-54,35-44,0.3703,13.68,https://commons.wikimedia.org/wiki/File:Brad_Dourif_2002.jpg
+Q31549,Brent Corrigan,1986-10-31,2015-05-27,28.57,15,25-34,Under 18,0.7688,13.57,https://commons.wikimedia.org/wiki/File:Brent_Corrigan_in_2014.jpg
+Q912893,Brian Patten,1946-02-07,2018-05-10,72.25,59,55+,55+,0.7091,13.25,"https://commons.wikimedia.org/wiki/File:Brian_Patten,_Hammersmith,_May_2018.png"
+Q12794883,Lina Kuduzović,2002-12-30,2015-11-20,12.89,26,Under 18,25-34,0.4329,13.11,https://commons.wikimedia.org/wiki/File:Lina_Kuduzovic_at_stage_of_JESC_2015_(2).jpg
+Q136098855,Samuel Volpe,2001-08-20,2025-09-11,24.06,37,18-24,35-44,0.4588,12.940000000000001,https://commons.wikimedia.org/wiki/File:Samuel_Volpe_2025.png
+Q105515765,Laurel Libby,1981-05-15,2024-11-24,43.53,31,35-44,25-34,0.4528,12.530000000000001,https://commons.wikimedia.org/wiki/File:Laurel_Libby_by_Gage_Skidmore_3.jpg
+Q138005,Michael Keaton,1951-09-05,2024-08-28,72.98,61,55+,55+,0.782,11.980000000000004,https://commons.wikimedia.org/wiki/File:Michael_Keaton-63916_(cropped).jpg
+Q220565,Zoran Planinić,1982-09-12,2020-06-09,37.74,26,35-44,25-34,0.4544,11.740000000000002,https://commons.wikimedia.org/wiki/File:Zoran_Planinic_BCKhimki_(cropped).jpg
+Q504025,Bill Bradley,1943-07-28,1979-01-08,35.45,47,35-44,45-54,0.419,11.549999999999997,https://commons.wikimedia.org/wiki/File:Sen._Bill_Bradley_(NJ)_(cropped).jpg
+Q3544018,Miki Satō,1980-04-15,2012-07-12,32.24,21,25-34,18-24,0.382,11.240000000000002,"https://commons.wikimedia.org/wiki/File:Miki_Sato,_2012.png"
+Q129798,Cham,1977-02-24,2025-05-04,48.19,37,45-54,35-44,0.4387,11.189999999999998,https://commons.wikimedia.org/wiki/File:Baby_Cham_2025.jpg
+Q334333,"John McFall, Baron McFall of Alcluith",1944-10-04,2022-11-01,78.08,67,55+,55+,0.9494,11.079999999999998,"https://commons.wikimedia.org/wiki/File:Lord_John_McFall_3x4,_2022.jpg"
+Q1361585,Massimo Pigliucci,1964-01-16,2026-06-26,62.44,52,55+,45-54,0.438,10.439999999999998,"https://commons.wikimedia.org/wiki/File:Massimo_Pigliucci_at_Molette_(Turin,_Italy),_2026._Photo_by_Jennifer_Sears.jpg"
+Q271554,Jennifer Westfeldt,1970-02-02,2009-07-07,39.43,29,35-44,25-34,0.4845,10.43,https://commons.wikimedia.org/wiki/File:JenniferWestfeldt2009_01.jpg
+Q19973565,MC Pedrinho,2002-05-03,2016-01-30,13.74,24,Under 18,18-24,0.4323,10.26,https://commons.wikimedia.org/wiki/File:Mc_Pedrinho_(24440485620).jpg
